@@ -5,6 +5,7 @@ project:
 website:
   title: "Svatba"
   navbar:
+    background: transparent
     left:
       - href: index.qmd
         text: Home
