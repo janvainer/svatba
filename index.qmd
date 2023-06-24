@@ -1,8 +1,7 @@
 ---
-title: "Something else"
+title: "Svatba"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038
