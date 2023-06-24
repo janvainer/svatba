@@ -6,6 +6,11 @@ format: html
   body {
   background-image: url("flowers.png");
   background-size: contain;
+  height: 100%;
+}
+
+html {
+    height: 100%;
 }
   
 </style>
@@ -14,3 +19,11 @@ format: html
 
 - Kdy: 20. Srpna 2023
 - Kde: Peckův mlýn, Blažim 24, Úněšov 33038
+- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
