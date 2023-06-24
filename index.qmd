@@ -1,3 +1,16 @@
+---
+format: html
+---
+
+<style>
+  body {
+  background-image: url("flowers.png");
+  background-size: contain;
+}
+  
+</style>
+
+
 
 - Kdy: 20. Srpna 2023
 - Kde: Peckův mlýn, Blažim 24, Úněšov 33038
