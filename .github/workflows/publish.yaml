@@ -42,3 +42,4 @@ jobs:
           mv docs src
           git add src
           git commit -m "Render"
+          git push
