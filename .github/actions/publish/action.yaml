@@ -55,7 +55,7 @@ runs:
           TARGET="${{ inputs.target }}"
         fi
         if [ "${{ inputs.render }}" != "true" ]; then
-          quarto publish $TARGET ${{ inputs.path }} --no-render --no-browser --profile=cz,en
+          quarto publish $TARGET ${{ inputs.path }} --profile=cz,en --no-render --no-browser
         else
-          quarto publish $TARGET ${{ inputs.path }} --no-browser --profile=cz,en
+          quarto publish $TARGET ${{ inputs.path }} --profile=cz,en --no-browser
         fi
