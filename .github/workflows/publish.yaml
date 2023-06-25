@@ -30,18 +30,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Render and Publish CZ
-        uses: quarto-dev/quarto-actions/publish@v2
-        # uses: ./.github/actions/publish
-        with:
-          target: gh-pages
+      - name: Render and Publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          QUARTO_PROFILE: cz
-      - name: Render and Publish EN
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          QUARTO_PROFILE: en
+        run: |
+          git --version
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          quarto render --profile cz
+          quarto render --profile en
+          git add docs
+          git commit -m "Render"
