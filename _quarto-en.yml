@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs/en
+
+website:
+  title: "Wedding"
+  navbar:
+    background: transparent
+    left:
+      - href: index.qmd
+        text: Info
+      - href: itinerary.qmd
+        text: Itinerary
+    right:
+      - href: ..
+        text: 🇨🇿
+
+lang: en
+

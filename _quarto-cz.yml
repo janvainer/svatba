@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Svatba"
+  navbar:
+    background: transparent
+    left:
+      - file: index.qmd
+        text: Info
+      - href: itinerary.qmd
+        text: Itinerář
+    right:
+      - href: ./en
+        text: 🇬🇧  
+
+lang: cz

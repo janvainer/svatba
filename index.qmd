@@ -3,13 +3,22 @@ format: html
 ---
 
 
-- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038
-- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
-- Kde: Peckův mlýn, Blažim 24, Úněšov 33038- Kdy: 20. Srpna 2023
+::: {.content-visible when-profile="cz"}
+
+|     |                                |
+|-----|--------------------------------------|
+| Kdy | 20 Srpna 2023, 10:30                 |
+| Kde | Peckův mlýn, Blažim 24, Úněšov 33038 |
+:::
+
+
+
+::: {.content-visible when-profile="en"}
+
+|       |                                   |
+|-------|--------------------------------------|
+| When  | 20 Srpna 2023, 10:30                 |
+| Where | Peckův mlýn, Blažim 24, Úněšov 33038 |
+
+
+:::

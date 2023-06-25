@@ -1,0 +1,28 @@
+---
+format: html
+title: Itinerář
+---
+
+
+
+::: {.content-visible when-profile="cz"}
+| Čas   | Událost           |
+|-------|-------------------|
+| 10:30 | Příjezd           |
+| 11:30 | Obřad             |
+| 12:30 | Focení, gratulace |
+| 13:00 | Hod květinou      |
+| 13:10 | Rozbíjení talíře  |
+| 13:15 | Oběd              |
+:::
+
+::: {.content-visible when-profile="en"}
+| Čas   | Událost            |
+|-------|--------------------|
+| 10:30 | Arrival            |
+| 11:30 | Wedding Ceremony   |
+| 12:30 | Congrats and photo |
+| 13:00 | Flower throwing    |
+| 13:10 | Plate breaking     |
+| 13:15 | Lunch              |
+:::

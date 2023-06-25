@@ -1,14 +1,9 @@
 project:
   type: website
-  output-dir: docs
 
-website:
-  title: "Svatba"
-  navbar:
-    background: transparent
-    left:
-      - href: index.qmd
-        text: Home
+profile:
+  default: cz
+  group: [cz, en]
 
 format:
   html:
