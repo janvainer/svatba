@@ -1,0 +1,14 @@
+---
+format: html
+title: Itinerary
+---
+
+
+| Time  | Event              |
+|-------|--------------------|
+| 10:30 | Arrival            |
+| 11:30 | Wedding Ceremony   |
+| 12:30 | Congrats and photo |
+| 13:00 | Flower throwing    |
+| 13:10 | Plate breaking     |
+| 13:15 | Lunch              |

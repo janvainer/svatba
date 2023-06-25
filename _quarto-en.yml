@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Info
-      - href: itinerary.qmd
+      - href: itinerary_en.qmd
         text: Itinerary
     right:
       - href: ..

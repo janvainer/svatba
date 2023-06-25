@@ -1,5 +1,6 @@
 ---
 format: html
+title: Info
 ---
 
 
@@ -14,11 +15,8 @@ format: html
 
 
 ::: {.content-visible when-profile="en"}
-
-|       |                                   |
+|       |                                      |
 |-------|--------------------------------------|
 | When  | 20 Srpna 2023, 10:30                 |
 | Where | Peckův mlýn, Blažim 24, Úněšov 33038 |
-
-
 :::

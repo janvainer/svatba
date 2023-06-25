@@ -9,7 +9,7 @@ website:
     left:
       - file: index.qmd
         text: Info
-      - href: itinerary.qmd
+      - href: itinerary_cz.qmd
         text: Itinerář
     right:
       - href: ./en
