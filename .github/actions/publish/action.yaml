@@ -48,7 +48,7 @@ runs:
         NETLIFY_AUTH_TOKEN: ${{ inputs.NETLIFY_AUTH_TOKEN }}
         QUARTO_PUB_AUTH_TOKEN: ${{ inputs.QUARTO_PUB_AUTH_TOKEN }}
       run: |
-        git config --global user. --profile ${{ inputs.profile }}email "${{ inputs.GITHUB_EMAIL }}"
+        git config --global user.email "${{ inputs.GITHUB_EMAIL }}"
         git config --global user.name "${{ inputs.GITHUB_USERNAME }}"
         TARGET="${{ inputs.to }}"
         if [ "$TARGET" == "" ]; then
