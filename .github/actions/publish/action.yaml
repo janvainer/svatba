@@ -47,6 +47,7 @@ runs:
         CONNECT_API_KEY: ${{ inputs.CONNECT_API_KEY }}
         NETLIFY_AUTH_TOKEN: ${{ inputs.NETLIFY_AUTH_TOKEN }}
         QUARTO_PUB_AUTH_TOKEN: ${{ inputs.QUARTO_PUB_AUTH_TOKEN }}
+        QUARTO_PROFILE: cz,en
       run: |
         git config --global user.email "${{ inputs.GITHUB_EMAIL }}"
         git config --global user.name "${{ inputs.GITHUB_USERNAME }}"
@@ -55,7 +56,7 @@ runs:
           TARGET="${{ inputs.target }}"
         fi
         if [ "${{ inputs.render }}" != "true" ]; then
-          quarto publish $TARGET ${{ inputs.path }} --profile=cz,en --no-render --no-browser
+          quarto publish $TARGET ${{ inputs.path }} --no-render --no-browser
         else
-          quarto publish $TARGET ${{ inputs.path }} --profile=cz,en --no-browser
+          quarto publish $TARGET ${{ inputs.path }} --no-browser
         fi
