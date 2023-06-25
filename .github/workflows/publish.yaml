@@ -42,4 +42,4 @@ jobs:
           git checkout -B deploy
           git add -f docs
           git commit -m "Render"
-          git push
+          git push --set-upstream origin deploy
