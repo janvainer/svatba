@@ -39,7 +39,7 @@ jobs:
           git config user.email "<>"
           quarto render --profile cz
           quarto render --profile en
-          mv docs src
-          git add src
+          git checkout -B deploy
+          git add -f docs
           git commit -m "Render"
           git push
