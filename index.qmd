@@ -6,19 +6,17 @@ title: Info
 
 ::: {.content-visible when-profile="cz"}
 
-|     |                                      |
-|-----|--------------------------------------|
-| Kdy | 20 Srpna 2023, 10:00                 |
-| Kde | Peckův mlýn, Blažim 24, Úněšov 33038 |
+|           |                                                                      |
+|-----------|----------------------------------------------------------------------|
+| Kdy       | 20 Srpna 2023, 10:00                                                 |
+| Kde       | [Peckův mlýn, Blažim 24, Úněšov 33038](https://mapy.cz/s/nedatolupo) |
 :::
 
 
 
 ::: {.content-visible when-profile="en"}
-|       |                                      |
-|-------|--------------------------------------|
-| When  | 20 August 2023, 10:00                |
-| Where | Peckův mlýn, Blažim 24, Úněšov 33038 |
+|       |                                                                      |
+|-------|----------------------------------------------------------------------|
+| When  | 20 August 2023, 10:00                                                |
+| Where | [Peckův mlýn, Blažim 24, Úněšov 33038](https://mapy.cz/s/nedatolupo) |
 :::
-
-[Peckuv mlyn](https://www.peckuvmlyn-ubytovani.cz/#utm_source=mapy.cz&utm_medium=ppd&utm_campaign=firmy.cz-12916829)
