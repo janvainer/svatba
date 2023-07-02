@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Svatba"
+  favicon: favicon.png
   navbar:
     background: transparent
     left:
