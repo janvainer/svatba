@@ -6,9 +6,11 @@ title: Itinerary
 
 | Time  | Event              |
 |-------|--------------------|
-| 10:30 | Arrival            |
-| 11:30 | Wedding Ceremony   |
-| 12:30 | Congrats and photo |
-| 13:00 | Flower throwing    |
+| 10:00 | Arrival            |
+| 11:00 | Wedding Ceremony   |
+| 12:00 | Congrats and photo |
+| 13:00 | Toast              |
 | 13:10 | Plate breaking     |
 | 13:15 | Lunch              |
+| 14:20 | Flower throwing    |
+| 14:30 | Wedding cake       |

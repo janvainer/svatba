@@ -6,9 +6,11 @@ title: Itinerář
 
 | Čas   | Událost           |
 |-------|-------------------|
-| 10:30 | Příjezd           |
-| 11:30 | Obřad             |
-| 12:30 | Focení, gratulace |
-| 13:00 | Hod květinou      |
+| 10:00 | Příjezd           |
+| 11:00 | Obřad             |
+| 12:00 | Focení, gratulace |
+| 13:00 | Přípytek          |
 | 13:10 | Rozbíjení talíře  |
 | 13:15 | Oběd              |
+| 14:20 | Hod květinou      |
+| 14:30 | Krájení dortu     |
