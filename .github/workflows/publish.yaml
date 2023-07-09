@@ -41,6 +41,7 @@ jobs:
           rm -rf docs
           quarto render --profile cz
           quarto render --profile en
+          echo www.pecka-svatba.cz > docs/CNAME
           git add -f docs
           git commit -m "Render"
           git push --force --set-upstream origin deploy
