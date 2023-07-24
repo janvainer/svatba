@@ -1,15 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
-profile:
-  default: cz
-  group: [cz, en]
+website:
+  title: "Svatba"
+  favicon: favicon.png
+  navbar:
+    background: transparent
+    left:
+      - file: index.qmd
+        text: Úvod
+      - href: itinerary_cz.qmd
+        text: Itinerář
+      - href: dary_cz.qmd
+        text: Dary
+      - href: ubytovani_cz.qmd
+        text: Ubytování
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
