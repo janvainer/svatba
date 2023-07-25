@@ -1,6 +1,6 @@
 ---
 format: html
-title: Itinerář
+title: Harmonogram
 ---
 
 

@@ -10,11 +10,11 @@ website:
     left:
       - file: index.qmd
         text: Úvod
-      - href: itinerary_cz.qmd
-        text: Itinerář
-      - href: dary_cz.qmd
+      - href: harmonogram.qmd
+        text: Harmonogram
+      - href: dary.qmd
         text: Dary
-      - href: ubytovani_cz.qmd
+      - href: ubytovani.qmd
         text: Ubytování
 
 format:
