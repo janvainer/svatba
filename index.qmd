@@ -19,7 +19,7 @@ Kateřina a Jan
 
 |           |                                                                      |
 |-----------|----------------------------------------------------------------------|
-| Kdy       | 20 Srpna 2023, 10:00 - [přidat do kalendáře](http://www.google.com/calendar/event?action=TEMPLATE&dates=20230820T080000Z%2F20230821T060000Z&text=Svatba%20Ka%C4%8Dka%20%26%20Honza&location=Peck%C5%AFv%20ml%C3%BDn%20-%20ubytov%C3%A1n%C3%AD%20v%20soukrom%C3%AD%2C%20%C3%9An%C4%9B%C5%A1ov%2024%2C%20330%2038%20Bla%C5%BEim%2C%20%C4%8Cesko&details=)                                                |
+| Kdy       | 20 Srpna 2023, 10:30 - [přidat do kalendáře](http://www.google.com/calendar/event?action=TEMPLATE&dates=20230820T083000Z%2F20230821T080000Z&text=Svatba%20Ka%C4%8Dka%20a%20Honza&location=Peck%C5%AFv%20ml%C3%BDn%20-%20ubytov%C3%A1n%C3%AD%20v%20soukrom%C3%AD%2C%20%C3%9An%C4%9B%C5%A1ov%2024%2C%20330%2038%20Bla%C5%BEim%2C%20%C4%8Cesko&details=)                                                |
 | Kde       | [Peckův mlýn, Blažim 24, Úněšov 33038](https://mapy.cz/s/nedatolupo) |
 [![](jak_k_nam.png)](https://mapy.cz/s/nedatolupo)
 

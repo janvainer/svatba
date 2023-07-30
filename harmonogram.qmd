@@ -4,13 +4,24 @@ title: Harmonogram
 ---
 
 
-| Čas   | Událost           |
-|-------|-------------------|
-| 10:00 | Příjezd           |
-| 11:00 | Obřad             |
-| 12:00 | Focení, gratulace |
-| 13:00 | Přípitek          |
-| 13:10 | Rozbíjení talíře  |
-| 13:15 | Oběd              |
-| 14:20 | Hod květinou      |
-| 14:30 | Krájení dortu     |
+| 20.8. | Událost                      |
+|-------|------------------------------|
+| 10:30 | Příjezd                      |
+| 11:30 | Obřad                        |
+| 12:30 | Focení, gratulace            |
+| 13:10 | Přípitek, rozbíjení talíře   |
+| 13:15 | Rodinný oběd a raut          |
+| 14:20 | Hod květinou                 |
+| 14:30 | Krájení dortu                |
+| 15:00 | První novomanželský tanec    |
+| 15:30 | Volný program, hudba, hry    |
+| 17:00 | Večeře                       |
+| 19:00 | Táborák                      |
+
+
+<br></br>
+
+
+| 21.8. | Událost                      |
+|-------|------------------------------|
+| 10:00 | Úklid, rozloučení a odjezd   |
