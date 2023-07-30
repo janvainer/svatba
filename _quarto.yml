@@ -12,10 +12,12 @@ website:
         text: Úvod
       - href: harmonogram.qmd
         text: Harmonogram
-      - href: dary.qmd
-        text: Dary
+      - href: obrad.qmd
+        text: Obřad
       - href: ubytovani.qmd
         text: Ubytování
+      - href: dary.qmd
+        text: Dary
 
 format:
   html:
